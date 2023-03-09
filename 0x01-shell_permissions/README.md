@@ -16,3 +16,4 @@ You are not allowed to use commas for this script
 10. 10-mirror_permissions is Write a script that sets the mode of the file hello the same as olleh’s mode.
 The file hello will be in the working directory
 The file olleh will be in the working directory
+11. 11-directories_permissions is Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
