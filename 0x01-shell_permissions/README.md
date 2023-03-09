@@ -20,3 +20,4 @@ The file olleh will be in the working directory
 12. 12-directory_permissions is Create a script that creates a directory called my_dir with permissions 751 in the working directory.
 13. 13-change_group is Write a script that changes the group owner to school for the file hello
 The file hello will be in the working directory
+14. 100-change_owner_and_group is a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
